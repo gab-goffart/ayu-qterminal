@@ -1,0 +1,70 @@
+[General]
+Description=Ayu Dark
+
+[Background]
+Color=10,14,20
+
+[BackgroundIntense]
+Color=10,14,20
+
+[Foreground]
+Color=179,177,173
+
+[ForegroundIntense]
+Color=179,177,173
+
+; black
+[Color0]
+Color=1,6,14
+
+[Color0Intense]
+Color=104,104,104
+
+; red
+[Color1]
+Color=234,108,115
+
+[Color1Intense]
+Color=240,113,120
+
+; green
+[Color2]
+Color=145,179,98
+
+[Color2Intense]
+Color=194,217,76
+
+; yellow
+[Color3]
+Color=249,175,79
+
+[Color3Intense]
+Color=255,180,84
+
+; blue
+[Color4]
+Color=83,189,250
+
+[Color4Intense]
+Color=89,194,255
+
+; magenta
+[Color5]
+Color=250,233,148
+
+[Color5Intense]
+Color=255,238,153
+
+; aqua
+[Color6]
+Color=144,225,198
+
+[Color6Intense]
+Color=149,230,203
+
+; grey
+[Color7]
+Color=199,199,199
+
+[Color7Intense]
+Color=255,255,255
